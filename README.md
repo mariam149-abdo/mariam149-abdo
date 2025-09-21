@@ -19,6 +19,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
+![snake gif](https://github.com/mariam149-abdo/mariam149-abdo/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center">
 <a href="https://github.com/mariam149-abdo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariam149-abdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
