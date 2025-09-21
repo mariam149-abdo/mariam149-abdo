@@ -1,4 +1,7 @@
-<h1 align="center">Hi , I'm Mariam <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhoNHdmanhsYWRlYzNvMWRpZHhkdTFzMjN3NTR3cjJhMGNzaGJ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)" width="35"></h1>
+<h1 align="center">Hi , I'm Mariam 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhoNHdmanhsYWRlYzNvMWRpZHhkdTFzMjN3NTR3cjJhMGNzaGJ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="35">
+</h1>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
