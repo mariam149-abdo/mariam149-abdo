@@ -32,21 +32,20 @@
 
 ---
 
-### 🏆 &nbsp;Certificates & Achievements  
+
+### 🌟 &nbsp;Featured Projects
+
 <p align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mariam149-abdo&theme=algolia&row=1&column=4" alt="trophies"/></a>
+  <a href="https://github.com/mariam149-abdo/quran">
+    <img src="https://img.shields.io/badge/Quran%20App-React-blue?style=for-the-badge&logo=react" alt="Quran App"/>
+  </a>
+  <a href="https://github.com/mariam149-abdo/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-HTML/CSS/JS-green?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/mariam149-abdo/todo-app">
+    <img src="https://img.shields.io/badge/Todo%20App-React/Tailwind-purple?style=for-the-badge" alt="Todo App"/>
+  </a>
 </p>
-
----
-
-<details>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/mariam149-abdo">
-  <img alt="Mariam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mariam149-abdo&custom_title=Mariam's%20Contribution%20Graph&theme=react-dark" />
-</a>
-<br/>
-</details>
 
 ---
 
