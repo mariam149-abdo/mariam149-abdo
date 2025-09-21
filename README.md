@@ -19,6 +19,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/mariam149-abdo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariam149-abdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam149-abdo&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 ### 📊 My Projects Overview
 
 <p align="center">
@@ -38,14 +44,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=bakery&theme=algolia" />
   </a>
 </p>
-
-<p align="center">
-<a href="https://github.com/mariam149-abdo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariam149-abdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam149-abdo&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 
 
 
