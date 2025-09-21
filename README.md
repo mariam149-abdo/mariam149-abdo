@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mariam 
+<h1 align="center">Hi, I'm Mariam 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWlxeWV6ZHE4OGY2NGRudDNtc3lyYTk4dnY2a2RjZGNreXhmeWhjNyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/XgN35QOWSzLKGISuxm/giphy.gif" width="35">
 </h1>
 
@@ -25,9 +25,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/mariam149-abdo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam149-abdo&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/mariam149-abdo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam149-abdo&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
 
 ---
@@ -39,12 +39,14 @@
 
 ---
 
+<details>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
 <a href="https://github.com/mariam149-abdo">
   <img alt="Mariam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mariam149-abdo&custom_title=Mariam's%20Contribution%20Graph&theme=react-dark" />
 </a>
 <br/>
+</details>
 
 ---
 
