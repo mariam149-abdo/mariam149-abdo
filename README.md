@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWlxeWV6ZHE4OGY2NGRudDNtc3lyYTk4dnY2a2RjZGNreXhmeWhjNyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/XgN35QOWSzLKGISuxm/giphy.gif" width="35">
 </h1>
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;React+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
   </a>
 </p>
 
+---
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,6 +21,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/mariam149-abdo">
@@ -28,28 +30,14 @@
 </a>
 </p>
 
-### 📊 My Projects Overview
+---
 
+### 🏆 &nbsp;Certificates & Achievements  
 <p align="center">
-  <a href="https://github.com/mariam149-abdo/quran">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=quran&theme=algolia" />
-  </a>
-  <a href="https://github.com/mariam149-abdo/Furnivo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=Furnivo&theme=algolia" />
-  </a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mariam149-abdo&theme=algolia&row=1&column=4" alt="trophies"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/mariam149-abdo/porto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=porto&theme=algolia" />
-  </a>
-  <a href="https://github.com/mariam149-abdo/bakery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=bakery&theme=algolia" />
-  </a>
-</p>
-
-
-
+---
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
@@ -58,9 +46,9 @@
 </a>
 <br/>
 
-  
-  
-  ### 🤝🏻 &nbsp;Connect with Me
+---
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-abdelhak-bb55b1324/">
