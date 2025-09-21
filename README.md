@@ -19,7 +19,25 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-![snake gif](https://github.com/mariam149-abdo/mariam149-abdo/blob/output/github-contribution-grid-snake.gif)
+### 📊 My Projects Overview
+
+<p align="center">
+  <a href="https://github.com/mariam149-abdo/quran">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=quran&theme=algolia" />
+  </a>
+  <a href="https://github.com/mariam149-abdo/Furnivo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=Furnivo&theme=algolia" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mariam149-abdo/porto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=porto&theme=algolia" />
+  </a>
+  <a href="https://github.com/mariam149-abdo/bakery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariam149-abdo&repo=bakery&theme=algolia" />
+  </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/mariam149-abdo">
