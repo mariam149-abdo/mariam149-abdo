@@ -35,11 +35,11 @@
 
 ### 🌟 &nbsp;Featured Projects
 <p align="center">
-  <a href="https://github.com/mariam149-abdo/Tasty-Bites" title="Tasty-Bites">
-    <img src="https://img.shields.io/badge/Tasty%20Bites-CSS-blue?style=for-the-badge" alt="Tasty-Bites"/>
+  <a href="https://github.com/mariam149-abdo/Speed-Shipping-Company" title="Speed Shipping Company">
+    <img src="https://img.shields.io/badge/Speed%20Shipping%20Company-Website-blue?style=for-the-badge" alt="Speed Shipping Company"/>
   </a>
-  <a href="https://github.com/mariam149-abdo/Noir-Bean" title="Noir-Bean">
-    <img src="https://img.shields.io/badge/Noir%20Bean-Coffee%20Website-green?style=for-the-badge" alt="Noir-Bean"/>
+  <a href="https://github.com/mariam149-abdo/Noir-Bean" title="Noir Bean">
+    <img src="https://img.shields.io/badge/Noir%20Bean-Coffee%20Website-green?style=for-the-badge" alt="Noir Bean"/>
   </a>
   <a href="https://github.com/mariam149-abdo/Furnivo" title="Furnivo">
     <img src="https://img.shields.io/badge/Furnivo-Modern%20Furniture%20Website-purple?style=for-the-badge" alt="Furnivo"/>
@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/Porto-Portfolio%20Website-yellow?style=for-the-badge" alt="Porto"/>
   </a>
 </p>
+
 
 
 ---
