@@ -34,18 +34,27 @@
 
 
 ### 🌟 &nbsp;Featured Projects
-
 <p align="center">
-  <a href="https://github.com/mariam149-abdo/quran">
-    <img src="https://img.shields.io/badge/Quran%20App-React-blue?style=for-the-badge&logo=react" alt="Quran App"/>
+  <a href="https://github.com/mariam149-abdo/Tasty-Bites" title="Tasty-Bites">
+    <img src="https://img.shields.io/badge/Tasty%20Bites-CSS-blue?style=for-the-badge" alt="Tasty-Bites"/>
   </a>
-  <a href="https://github.com/mariam149-abdo/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-HTML/CSS/JS-green?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://github.com/mariam149-abdo/Noir-Bean" title="Noir-Bean">
+    <img src="https://img.shields.io/badge/Noir%20Bean-Coffee%20Website-green?style=for-the-badge" alt="Noir-Bean"/>
   </a>
-  <a href="https://github.com/mariam149-abdo/todo-app">
-    <img src="https://img.shields.io/badge/Todo%20App-React/Tailwind-purple?style=for-the-badge" alt="Todo App"/>
+  <a href="https://github.com/mariam149-abdo/Furnivo" title="Furnivo">
+    <img src="https://img.shields.io/badge/Furnivo-Modern%20Furniture%20Website-purple?style=for-the-badge" alt="Furnivo"/>
+  </a>
+  <a href="https://github.com/mariam149-abdo/quran" title="Quran">
+    <img src="https://img.shields.io/badge/Quran-CSS-orange?style=for-the-badge" alt="Quran"/>
+  </a>
+  <a href="https://github.com/mariam149-abdo/learnix" title="Learnix">
+    <img src="https://img.shields.io/badge/Learnix-Education%20Website-red?style=for-the-badge" alt="Learnix"/>
+  </a>
+  <a href="https://github.com/mariam149-abdo/porto" title="Porto">
+    <img src="https://img.shields.io/badge/Porto-Portfolio%20Website-yellow?style=for-the-badge" alt="Porto"/>
   </a>
 </p>
+
 
 ---
 
