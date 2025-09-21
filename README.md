@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mariam 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZodDUxNXZlc3Zwb29zZGFoNmFyMHVqa2x6MHJhaWdyOXBiOG91aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWlxeWV6ZHE4OGY2NGRudDNtc3lyYTk4dnY2a2RjZGNreXhmeWhjNyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/XgN35QOWSzLKGISuxm/giphy.gif" width="35">
 </h1>
 
 
