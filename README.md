@@ -20,10 +20,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50">
-  </a>
+<a href="https://github.com/mariam149-abdo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariam149-abdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam149-abdo&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
+
 
 
 
